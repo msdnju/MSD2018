@@ -16,8 +16,8 @@ Marine Sediment Dynamics
 1. Dyer, K. R., 1986. Coastal and Estuarine Sediment Dynamics. John Wiley & Sons, Chichester. 342pp.
 2. 钱宁, 万兆惠, 1983.泥沙运动力学.北京: 科学出版社. 687pp.
 3. The Open University, 1999. Waves, Tides and Shallow-Water Processes (2e). Butterworth-Heinemann, Oxford. 227pp.
-4. Soulsby, R.L., 1997. Dynamics of marine sands: A Manual for Practical Applications. Thomas Telford, Oxford, 249pp.
-5. Whitehouse, R., Soulsby, R., Roberts, W., Mitchener, H., 2000. Dynamics of Estuarine Muds: A Manual for Practical Applications. Thomas Telford, London, 210pp.
+4. Soulsby, R.L., 1997. Dynamics of marine sands: A Manual for Practical Applications. Thomas Telford, Oxford. 249pp.
+5. Whitehouse, R., Soulsby, R., Roberts, W., Mitchener, H., 2000. Dynamics of Estuarine Muds: A Manual for Practical Applications. Thomas Telford, London. 210pp.
 6. Komar, P. D., 1997. Beach Processes and Sedimentation (2e). Prentice Hall, Upper Saddle River. 544pp.
 7. Dyer, K. R., 1997. Estuaries: A Physical Introduction (2e). John Wiley & Sons, Chichester. 195pp.
 8. 《海洋沉积动力学讲义》第一章中列举的学术期刊.
